@@ -1,0 +1,8 @@
+first create assosiative array.
+then print the all static content of table Like table header.
+then apply foreach for the array and find key and value of table data
+then print the table data as dynamic table content and close the table
+declare variable for managing values to find max sold of eggs
+And then apply foreach again find key and value
+then write the condition to find desired value
+as on for all rest Tasks...
